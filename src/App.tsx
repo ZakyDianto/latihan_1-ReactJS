@@ -19,6 +19,7 @@ const App = () => {
       {/* <Counter /> */}
       {/* <WelcomeMessage name="Bima" /> */}
       <FetchApi />
+      <p>s</p>
     </div>
   )
 }
